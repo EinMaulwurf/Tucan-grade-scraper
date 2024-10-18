@@ -1,0 +1,6 @@
+.venv/
+.env
+test.py
+test2.py
+noten.csv
+grades.csv
